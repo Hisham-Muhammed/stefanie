@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://telegra.ph/file/2326dd574a9e95337a853.jpg" width="400" height="200">
+  <img src="https://telegra.ph/file/2326dd574a9e95337a853.jpg" width="600" height="200">
 
   <h1>Don't use my bot plugins</h1>
 
