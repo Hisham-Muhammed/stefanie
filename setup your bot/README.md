@@ -32,7 +32,7 @@ http://remove.bg
 ## 💫 Deploy Stefanie on Heroku 💫
 
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
-[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie-)
+[![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/stefanie)
 
 # 📢 Guide
 
