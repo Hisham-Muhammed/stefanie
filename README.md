@@ -125,4 +125,4 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 - [ ] Replika chatbot
 
-## ☇Stefanie team comming ☇
+## ☇Stefanie team comming soon...☇
