@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://telegra.ph/file/7a8c47c246bd16d90623d.jpg" width="600" height="600">
+  <img src="https://telegra.ph/file/7a8c47c246bd16d90623d.jpg" width="400" height="400">
   <h1>Stefanie</h1>
 
 </div>
