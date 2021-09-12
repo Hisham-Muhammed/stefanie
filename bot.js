@@ -95,7 +95,7 @@ async function Alexa () {
     })    
 
     conn.on('connecting', async () => {
-        console.log(`${chalk.green.bold('WhatAlexa')}
+        console.log(`${chalk.green.bold('Stefanie')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 ${chalk.blue.italic('Made By Kaweesha Chamod')}`);
     });
