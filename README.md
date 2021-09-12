@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://telegra.ph/file/7a8c47c246bd16d90623d.jpg" width="400" height="400">
+  <img src="https://telegra.ph/file/7a8c47c246bd16d90623d.jpg" width="600" height="600">
   <h1>Stefanie</h1>
 </div>
 <p align="center">
@@ -96,7 +96,7 @@ and we will try to help you.
 
   <div align="center">
 
-  <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="200" height="200">
+  <img src="https://telegra.ph/file/43671afb59b0578ad4a46.jpg" width="400" height="400">
 
   <h1>Mr Chabby</h1>
 
