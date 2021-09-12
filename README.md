@@ -107,7 +107,7 @@ and we will try to help you.
 
   <div align="center">
 
-  <img src="https://github.com/Kaweeshachamodk.png?size=100" width="400" height="400">
+  <img src="https://telegra.ph/file/25d0b3be938c54ff88750.jpg" width="400" height="400">
 
   <h1>Kaweesha Chamod</h1>
 
