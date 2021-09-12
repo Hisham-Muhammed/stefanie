@@ -20,7 +20,7 @@
 
  ( [how to turn on DesctopMod](https://youtu.be/BPzk5WnvmcI) )
 
- [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TOXICDEVIL/WhatsAlexa)
+ [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaweeshachamodk/WhatsAlexa-2)
 ## දැන් මෙතනින් Remove bg api එක ගන්න😋
 
 ## 🪀 Get remove bg -Api 🪀                
