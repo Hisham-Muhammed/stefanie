@@ -20,11 +20,11 @@
 <p align="center">
     Stefanie is a Helper WhatsApp Bot Written By @Kaweeshachamodk with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
-     <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie_?color=green&label=Repo%60total%60size&style=plastic">
+     <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie?color=green&label=Repo%60total%60size&style=plastic">
 
 <p align="center">
-<a href="https://github.com/Kaweeshachamodk/Stefanie_/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaweeshachamodk/Stefanie_?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kaweeshachamodk/Stefanie_/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kaweeshachamodk/Stefanie_?color=pink&style=flat-square"></a>
+<a href="https://github.com/Kaweeshachamodk/Stefanie/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaweeshachamodk/Stefanie?color=blue&style=flat-square"></a>
+<a href="https://github.com/Kaweeshachamodk/Stefanie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kaweeshachamodk/Stefanie?color=pink&style=flat-square"></a>
 
 
 ## ⚙️ Setup ⚙️
