@@ -133,7 +133,7 @@ ${chalk.blue.italic('Made By Kaweesha Chamod')}`);
         });
 
         console.log(
-            chalk.green.bold('🎉 BOT IS NOW ACTIVE IN YOUR ACCOUNT!')
+            chalk.green.bold('🆙Stefanie☇Working Now!  දැන් Bot ඔබට භාවිතා කළ හැකිය.')
         );
         
          if (config.LANG == 'EN') {
