@@ -106,10 +106,18 @@ and we will try to help you.
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [! |
-----|----|----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | [MrCbaby](https://github.com/MrChaby) |
-Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
+## Developers
+  <div align="center">
+    
+  [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |  [![Toxic Dewil](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) | [![Tutux](https://github.com/Tutux1.png?size=100)](https://github.com/Tutux1) 
+----|----|----
+[MrChaby](https://github.com/MrChaby)  | [TOXIC-DEWIL](https://github.com/TOXIC-DEVIL) | [Tutux](https://github.com/Tutux1)
+Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  </div>
+
+
+ 
+
 
 ## ✨ Special Features ✨
 
