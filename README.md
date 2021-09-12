@@ -124,3 +124,5 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 - [x] simi simi chatbot
 
 - [ ] Replika chatbot
+
+## ☇Stefanie team comming ☇
