@@ -16,13 +16,11 @@
   <img src="https://telegra.ph/file/7a8c47c246bd16d90623d.jpg" width="600" height="600">
   <h1>Stefanie</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaweeshachamodk&repo=Stefanie&theme=nightowl)](https://github.com/Kaweeshachamodk/stefanie)
-
 </div>
 <p align="center">
     Stefanie is a Helper WhatsApp Bot Written By @Kaweeshachamodk with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
-     <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie_?color=green&label=Repo%20total%20size&style=plastic">
+     <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie_?color=green&label=Repo%60total%60size&style=plastic">
 
 <p align="center">
 <a href="https://github.com/Kaweeshachamodk/Stefanie_/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaweeshachamodk/Stefanie_?color=blue&style=flat-square"></a>
