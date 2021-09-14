@@ -51,11 +51,11 @@
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 [![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie)
 
-## 🪀 Get Heroku-Api 🪀
+## 🪀 Get telegra.ph link to Alive Logo 🪀
 
-##මුලින්ම heroku account එකක් හදාගන්න.
+## ALIVE_LOGO එකට දාන්න පොටෝ එකක් ගන්න විදිය බලා ගන්න පහත link එක click කරන්න.
 
-( [Singup Heroku](https://github.com/Kaweeshachamodk/How-to-get-link-in-telegra.ph) )
+( [How to get ALIVE_LOGO link](https://github.com/Kaweeshachamodk/How-to-get-link-in-telegra.ph) )
 
 
 
