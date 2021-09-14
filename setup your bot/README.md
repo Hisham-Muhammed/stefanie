@@ -51,7 +51,15 @@
 **You must Deploy on Heroku by clicking 'Deploy to Heroku' Button.**
 [![Deploy-Stefanie](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie)
 
-# 📢 Guide
+## 🪀 Get Heroku-Api 🪀
+
+##මුලින්ම heroku account එකක් හදාගන්න.
+
+( [Singup Heroku](https://github.com/Kaweeshachamodk/How-to-get-link-in-telegra.ph) )
+
+
+
+## 📢 Guide
 
 Click WA logo to Join Support Group 👇
 
