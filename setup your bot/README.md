@@ -38,7 +38,7 @@
 
 ( [Singup Heroku](https://tinyurl.com/ye8y47lr) )
 
-## දැන් heroku_Api_Key එක ගන්න
+## දැන් heroku_Api_Key එක ගන්න.
 
 
 ( [Get Heroku_Api_Key ](https://tinyurl.com/yf53ko) )
