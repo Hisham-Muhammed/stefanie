@@ -1,5 +1,4 @@
-## 🤔 What is Stefanie?! 🤔
-- **Stefanie** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Stefanie has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
+
 
 
 <p align="center">
@@ -14,11 +13,11 @@
 
 <div align="center">
   <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" width="600" height="400">
-  <h1>Stefanie</h1>
+  <h1>Stefanie (vip)</h1>
 
 </div>
 <p align="center">
-    Stefanie is a Helper WhatsApp Bot Written By @Kaweeshachamodk with Baileys. Alexa has a lot of Features/Commans Including Voice Chat [ AI ].
+    Stefanie is a Helper WhatsApp Bot Written By @Kaweeshachamodk with Baileys. Stefanie has a lot of Features/Commans Including Voice Chat [ AI ].
     <br>
      <img src="https://img.shields.io/github/repo-size/Kaweeshachamodk/Stefanie?color=green&label=Repo%60total%60size&style=plastic">
 
@@ -26,7 +25,8 @@
 <a href="https://github.com/Kaweeshachamodk/Stefanie/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaweeshachamodk/Stefanie?color=blue&style=flat-square"></a>
 <a href="https://github.com/Kaweeshachamodk/Stefanie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kaweeshachamodk/Stefanie?color=pink&style=flat-square"></a>
 
-
+## 🤔 What is Stefanie?! 🤔
+- **Stefanie** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Stefanie has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
 ## ⚙️ Setup ⚙️
 
 ## Click this logo and set up your bot🥰
