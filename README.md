@@ -27,11 +27,10 @@
 
 ## 🤔 What is Stefanie?! 🤔
 - **Stefanie** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Stefanie has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
+
 ## ⚙️ Setup ⚙️
 
-## Click this logo and set up your bot🥰
-## බොට්ව සැකසීම සදහා පහත කොල පැහැති ලෝගෝ එක මත click කරන්න😋
-## 👇
+## ☇Click this logo and set up your bot☇
 </p>
   <p align="center">
 <a href="https://github.com/Kaweeshachamodk/stefanie/tree/main/setup%20your%20bot"><img title="Click this logo and setup your bot" src="https://img.shields.io/badge/click this logo and sey up your bot-afnanplk/pinkymwol?color=Yellow&style=for-the-badge&logo=github"></a>
