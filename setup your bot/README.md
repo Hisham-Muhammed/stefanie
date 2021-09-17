@@ -7,7 +7,7 @@
 # pkg install git
 # pkg install nodejs
 # git clone ttps://github.com/Kaweeshachamodk/Stefanie
-# cd WhatsAlexa
+# cd Stefanie
 # npm i @adiwajshing/baileys
 # npm i chalk
 # node alexa.js
