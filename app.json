@@ -1,7 +1,7 @@
 {
     "name": "Stefanie_",
     "description": "Stefanie is a Helper WhatsApp Bot Written By kaweesha chamod  with Baileys. Stefanie has a lot of Features/Commans Including Voice Chat [ AI ].",
-    "logo": "https://telegra.ph/file/fbb8f75bf5f7f477ff92d.jpg",
+    "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
     "keywords": ["whatsapp", "Voice", "Alexa", "WhatsAlexa", "bot", "api", "ai"],
     "repository": "https://github.com/Kaweeshachamodk/Stefanie_",
     "website":   "https://toxic-devil.github.io",
@@ -20,6 +20,31 @@
             "description": "Bot languages. Malayalam => ML, Indonesia => ID, English => EN ( Enter any one only )",
             "required": true,
             "value": "EN"
+        },
+        "ALIVE_LOGO": {
+            "description": "Alive message Photo.",
+            "required": false,
+            "value": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg"
+       },
+       "INBOX_BLOCK": {
+            "description": "Activate Inbox Block System true or false",
+            "required": false,
+            "value": "false"
+        },
+        "CHANGE_BGM_TO": {
+            "description": "Dont leave this blank choose the bgm you need - enter -angela- for talking angela - enter -Tom- for Talking tom",
+            "required": true,
+            "value": "angela"
+        },
+        "THERI_LIST": {
+            "description": "Safe mode",
+            "required": true,
+            "value": "true"
+        },
+        "WHATS_LINK_BLOCK": {
+            "description": "Link Blocking System.- this one blocks whatsapp group  link",
+            "required": true,
+            "value": "false"
         },
         "ANTI_LINK": {
             "description": "It makes the bot Antilink.",
