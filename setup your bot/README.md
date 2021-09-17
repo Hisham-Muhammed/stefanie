@@ -1,7 +1,7 @@
 ## use termux
 
 ```
-# bash <(curl -L rotf.lol/Kaweeshachamodk/Stefanie_)
+# bash <(curl -L rotf.lol/Kaweeshachamodk/Stefanie)
 ```
 ```
 # pkg install git
