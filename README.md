@@ -29,6 +29,8 @@
  ## Now get heroku Api key
   
  
+
+( [Get Heroku_Api_Key ](https://tinyurl.com/yf53ko) )
   
 ## [![💡Setup](https://img.shields.io/badge/Select-Setup-red.svg)](https://github.com/Kaweeshachamodk/stefanie/tree/main/setup%20your%20bot)
 
