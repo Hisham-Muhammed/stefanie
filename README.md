@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" width="600" height="400">
   <h1>Stefanie (vip)</h1>
-  
   <p align="center">
 
     <a href="https://github.com/Kaweeshachamodk">
