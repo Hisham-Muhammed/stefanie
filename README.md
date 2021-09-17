@@ -19,11 +19,17 @@
 <a href="https://github.com/Kaweeshachamodk/Stefanie/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kaweeshachamodk/Stefanie?color=blue&style=flat-square"></a>
 <a href="https://github.com/Kaweeshachamodk/Stefanie/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kaweeshachamodk/Stefanie?color=pink&style=flat-square"></a>
 
-## 🤔 What is Stefanie?! 🤔
-- **Stefanie** is a Helper WhatsApp Bot Written with **[Baileys](https://github.com/adiwajshing/baileys)** Which is hosted on **[Heroku Cloud Server](https://heroku.com).** Also Stefanie has a **Lot of Commands/Features,** Including **Artificial Intelligence [ AI ] Features/Commands.**
 
 ## ⚙️ Setup ⚙️
 
+## First singup in heroku
+
+  ( [Singup Heroku](https://tinyurl.com/ye8y47lr) )
+  
+ ## Now get heroku Api key
+  
+ 
+  
 ## [![💡Setup](https://img.shields.io/badge/Select-Setup-red.svg)](https://github.com/Kaweeshachamodk/stefanie/tree/main/setup%20your%20bot)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
