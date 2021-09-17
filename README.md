@@ -7,19 +7,7 @@
   <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" width="600" height="400">
   <h1>Stefanie (vip)</h1>
   
-  <p align="center"><a href="https://github.com/Kaweeshachamodk">
 
-        <img
-
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Stefanie...+Thank+You+For+Visiting...."
-
-            alt="Typing SVG"
-
-        />
-
-    </a>
-
-</p>
 
 </div>
 <p align="center">
