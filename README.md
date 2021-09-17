@@ -1,25 +1,27 @@
 #### © Select your language
 
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Kaweeshachamodk/stefanie/edit/main/README.md)
-
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/edit/main/README.md)
-
-
-
-
-<p align="center">
-    <a href="https://github.com/Kaweeshachamodk">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Stefanie...+Thank+You+For+Visiting...."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
+[![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/blob/main/README.md)
 
 <div align="center">
   <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" width="600" height="400">
   <h1>Stefanie (vip)</h1>
+  
+  <p align="center">
+
+    <a href="https://github.com/Kaweeshachamodk">
+
+        <img
+
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Stefanie...+Thank+You+For+Visiting...."
+
+            alt="Typing SVG"
+
+        />
+
+    </a>
+
+</p>
 
 </div>
 <p align="center">
