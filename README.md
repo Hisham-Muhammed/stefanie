@@ -24,11 +24,7 @@
 
 ## ⚙️ Setup ⚙️
 
-## ☇Click this logo and set up your bot☇
-</p>
-  <p align="center">
-<a href="https://github.com/Kaweeshachamodk/stefanie/tree/main/setup%20your%20bot"><img title="Click this logo and setup your bot" src="https://img.shields.io/badge/click this logo and sey up your bot-afnanplk/pinkymwol?color=Yellow&style=for-the-badge&logo=github"></a>
-</p>
+## [![💡Setup](https://img.shields.io/badge/Select-Setup-red.svg)](https://github.com/Kaweeshachamodk/stefanie/tree/main/setup%20your%20bot)
 
 ## ❔ F A Q ( Frequently Asked Questions. ) ❔
 
