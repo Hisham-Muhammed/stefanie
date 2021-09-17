@@ -1,3 +1,9 @@
+#### © Select your language
+
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Kaweeshachamodk/stefanie/edit/main/README.md)
+
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Kaweeshachamodk/stefanie/edit/main/README.md)
+
 
 
 
@@ -12,7 +18,7 @@
 
 
 <div align="center">
-  <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" width="600" height="300">
+  <img src="https://telegra.ph/file/0edc0f3917fde20a7990a.jpg" width="600" height="400">
   <h1>Stefanie (vip)</h1>
 
 </div>
