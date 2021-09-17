@@ -28,9 +28,23 @@
   
  ## Now get heroku Api key
   
+ ( [Get Heroku_Api_Key ](https://tinyurl.com/yf53ko) )
  
+ #### You can easily get the QR code Repl.it .. Click the button below
 
-( [Get Heroku_Api_Key ](https://tinyurl.com/yf53ko) )
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](replit.com/@Kaweeshachamodk/WhatsAlexa-2)
+
+`You need 2 mobile phones to build the Stefanie  bot!
+
+You will run the bot from the second device.
+
+You will only generate a QR code with the first device.
+
+From the first device you need to install Stefanie Bot.`
+
+#### After getting the QR code, click the button below to apply the bot...
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Kaweeshachamodk/stefanie)
   
 ## [![💡Setup](https://img.shields.io/badge/Select-Setup-red.svg)](https://github.com/Kaweeshachamodk/stefanie/tree/main/setup%20your%20bot)
 
