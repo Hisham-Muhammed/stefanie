@@ -51,7 +51,7 @@
             "required": false,
             "value": "false"
         },
-        "ANTI_BLOCK": {
+        "INBOX_BLOCK": {
             "description": "Activate Inbox Block System true or false",
             "required": false,
             "value": "false"
