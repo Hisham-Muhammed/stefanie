@@ -44,7 +44,7 @@ From the first device you need to install Stefanie Bot.`
 
 #### After getting the QR code, click the button below to apply the bot...
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Kaweeshachamodk/stefanie)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/Stefanie)
   
 ## [![💡Setup](https://img.shields.io/badge/Select-Setup-red.svg)](https://github.com/Kaweeshachamodk/stefanie/tree/main/setup%20your%20bot)
 
